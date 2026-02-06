@@ -1,5 +1,5 @@
 # Devenir partage pratique de l'IA
-![photo](media/ai_voix_femme.jpg)
+![photo](media/)
 
 ## Galerie de l'Université de Montréal
 ## Temporaire intérieur
