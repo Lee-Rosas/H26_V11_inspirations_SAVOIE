@@ -1,5 +1,5 @@
 # Devenir partage pratique de l'IA
-![photo](media/)
+![photo](media/affiche_photo_site_udem.jpg)
 
 ## Galerie de l'Université de Montréal
 ## Temporaire intérieur
