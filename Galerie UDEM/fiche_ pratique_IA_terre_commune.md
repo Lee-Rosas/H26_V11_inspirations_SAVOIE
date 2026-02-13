@@ -8,7 +8,7 @@
 ### Date de visite: 30 Janvier 2026
 # Common Ground/Terre commune
 ![photo](media/ecran_onde_alpha.jpg)
-# Croquis de l'oeuvere
+# Croquis de l'oeuvre
 ![photo](media/croquis_oeuvre.png)
 ## Artiste: Marion Schneider
 ![photo](media/artiste.webp)
