@@ -29,7 +29,7 @@
 ### Éléments nécessaires: Écran-Banc-Bandeaux
 ![photo](media/bandeau.jpg)
 ###### Photo prise dans le site dans les références.
-#### Appréciation: J'ai bien apprécié l'experience, l'oeuvre répondais bien aux ondes
-#### Commentaires constructifs: Ce qui ma plu était comment on voyais les ondes bougé quand je pensais, vivait une émotions forte ou rien du tout
+#### Appréciation: J'ai bien apprécié l'experience, l'oeuvre était intéressant. Aussi, le fait qu'on pouvait interagir avec l'oeuvre était un belle aspect. L'oeuvre pouvait changer avec nos ondes alphas fait par notre tête est très impressionnant.
+#### Commentaires constructifs: Ce qui ma plu était le fait qu'on pouvais observé les ondes bougées. On obervait les ondes changées si on pensait à quelque chose, vivait une émotions forte ou même à rien du tout. Par example si tu pensais à quelque chose de positif ou d'amusant les ondes bougaient partout. Mais si tu ne pense à rien, les ondes reste en ligne droite.
 #### Critiques: L'Aspect que je souhaiterais pas retenir pour mes propre créations est l'appui visuel, je trouve qu'il n'avait rien de spécial au changement de couleur comparer aux ondes
 ### Références: Les sites de références pour les images: https://schneidermarion.net/ / https://galerie.umontreal.ca/ / https://museesmontreal.org/en/museums/galerie-de-luniversite-de-montreal / https://www.marionschneider.net/die-dunkle-seite-des-mondes/
