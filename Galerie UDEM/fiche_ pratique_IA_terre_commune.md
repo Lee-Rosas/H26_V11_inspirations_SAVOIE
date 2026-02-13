@@ -9,7 +9,7 @@
 # Common Ground/Terre commune
 ![photo](media/ecran_onde_alpha.jpg)
 # Croquis de l'oeuvere
-![photo](media/corquis_oeuvre.png)
+![photo](media/croquis_oeuvre.png)
 ## Artiste: Marion Schneider
 ![photo](media/artiste.webp)
 ###### Photo prise dans le site dans les références.
