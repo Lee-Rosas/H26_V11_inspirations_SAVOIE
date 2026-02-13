@@ -1,13 +1,18 @@
 # Devenir partage pratique de l'IA
 ![photo](media/affiche_photo_site_udem.jpg)
 ## Galerie de l'Université de Montréal
-## Temporaire intérieur
-### 30 Janvier 2026
+![photo](media/uqam.jfif)
+## Type d'exposition: Temporaire intérieur
+### Date de visite: 30 Janvier 2026
 # Common Ground/Terre commune
-## Marion Schneider
-### 2025
-### Marion Scheinder a collecté des images de sols forestiers afin d'entraîner une  AI générative à produire des représentation à partir de ces données. Des images se déploient en temps réel selon l'activité cérébrale du public avec des ondes alpha<
-### Interactive
+![photo](media/ecran_onde_alpha.jpg)
+## Artiste: Marion Schneider
+
+### Cette oeuvre à été realisée en 2025
+### Marion Scheinder a collecté des images de sols forestiers afin d'entraîner une  AI générative à produire des représentation à partir de ces données. Des images se déploient en temps réel selon l'activité cérébrale du public avec des ondes alpha
+![photo](media/description_oeuvre.jpg)
+### Une installation Interactive
+![photo](media/banc.jpg)
 ### Scénographie
 ### Écran et projecteur
 ### Écran-Projecteur-Bandeaux qui lit les ondes alpha
