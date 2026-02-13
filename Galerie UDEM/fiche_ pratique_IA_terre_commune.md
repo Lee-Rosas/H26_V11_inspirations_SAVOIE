@@ -8,14 +8,17 @@
 ### Date de visite: 30 Janvier 2026
 # Common Ground/Terre commune
 ![photo](media/ecran_onde_alpha.jpg)
+###### Cette photo à été prise par moi
 # Croquis de l'oeuvre
 ![photo](media/croquis_oeuvre.png)
+###### Cette photo à été prise par moi
 ## Artiste: Marion Schneider
 ![photo](media/artiste.webp)
-###### Photo prise dans le site dans les références.
+###### Croquis fait par moi
 ### Cette oeuvre à été realisée en 2025
 ### Marion Scheinder a collecté des images de sols forestiers afin d'entraîner une  AI générative à produire des représentation à partir de ces données. Des images se déploient en temps réel selon l'activité cérébrale du public avec des ondes alpha
 ![photo](media/description_oeuvre.jpg)
+###### Cette photo à été prise par moi
 ### Une installation Interactive
 ![photo](media/banc.jpg)
 ###### Photo prise dans le site dans les références.
