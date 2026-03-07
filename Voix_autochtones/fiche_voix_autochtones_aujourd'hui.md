@@ -1,1 +1,8 @@
-
+# Voix Autochtones d'aujourd'hui
+## Savoir, Trauma, Résilience
+![photo](media/affiche_expo.jpg)
+###### Cette photo à été prise par moi
+## Musée McCord Stewart Montréal
+![photo](media/moi_devant_edifice.jpg)
+###### Cette photo à été prise par ma mère
+## Type d'exposition: Permanente intérieur
