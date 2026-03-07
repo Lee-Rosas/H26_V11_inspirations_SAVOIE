@@ -6,3 +6,4 @@
 ![photo](media/moi_devant_edifice.jpg)
 ###### Cette photo à été prise par ma mère
 ## Type d'exposition: Permanente intérieur
+### Date de visite : 3 Mars 2026
