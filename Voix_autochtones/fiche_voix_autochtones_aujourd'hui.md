@@ -14,3 +14,6 @@
 ![photo](media/croquis_oeuvre.jpg)
 ###### Cette photo à été faite par moi
 ## La Firme: Le Musée McCord
+###### L'exposition à été assuré et exposé par plusieurs personnes, mais à été réalisée par le Musée McCord.
+### Cette oeuvre à été réalisée en septembre 2021
+### 
