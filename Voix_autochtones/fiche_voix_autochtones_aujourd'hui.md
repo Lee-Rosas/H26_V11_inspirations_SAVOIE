@@ -11,3 +11,4 @@
 ![photo](media/vue_ensemble_installation.jpg)
 ###### Cette photo à été prise par moi
 # Croquis de l'oeuvre
+![photo](media/croquis_oeuvre.jpg)
