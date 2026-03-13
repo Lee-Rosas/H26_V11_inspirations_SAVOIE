@@ -12,8 +12,13 @@
 ###### Cette photo à été prise par moi
 # Croquis de l'oeuvre
 ![photo](media/croquis_oeuvre.jpg)
+#### Cette exposition avait 3 salles, mais je n’en ai dessiné qu’une, car l’exposition est trop grande.
 ###### Cette photo à été faite par moi
 ## La Firme: Le Musée McCord
 ###### L'exposition à été assuré et exposé par plusieurs personnes, mais à été réalisée par le Musée McCord.
 ### Cette oeuvre à été réalisée en septembre 2021
-### 
+### Le dispositif multimédia diffuse plein de différentes informations sur l'histoire des autochtones par des téléphones. Ils expliquent comment ils ont dû survivre en nature, dans les pensionnats, comment ils ont repris en main leurs vies en société après des traumatismes et comment ils ont essayé garder leurs savoirs.
+![photo](media/description_histoire_cartel.jpg)
+#### Contrairement à plusieurs expositions, cette exposition-ci n'avait pas de cartel précis, mais plutôt des descriptions, des affirmations et des questions qui nous font réfléchir plus profondément.
+###### Cette photo à été prise par moi
+### Type d'installation: Contemplative ET Interactive
