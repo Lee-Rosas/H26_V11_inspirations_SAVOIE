@@ -40,3 +40,5 @@
 ###### Cette photo à été prise par moi
 > Tu dois prendre le combiné téléphonique et écouter dans celui-ci pour en savoir plus sur l’histoire des autochtones, on a aussi des petits écrans pour un support visuel. Il y a plusieurs paires de combinés téléphoniques pour laisser la chance à plusieurs personnes d’accéder aux informations.
 #### Appréciation: J’ai beaucoup apprécié cette exposition, j’ai appris beaucoup d’informations et ai pu me cultiver plus sur l’histoire des autochtones et comment ils ont combattu pour leurs droits jusqu’au bout. Pas beaucoup de personnes s’y connaissent sur leur vécu et cette exposition vous permet d’y en savoir davantage. De plus, le fait d’avoir des combinés téléphoniques pour y écouter est une très bonne idée qui est originale.
+#### Critiques: Je trouve qu’il n’y avait pas beaucoup de dispositifs interactifs et j’aurais voulu plus de variété multimédias.
+### Références: Photos prise pas Rosa-Lee Savoie (Moi) et Sabrina Tessier (Ma mère) 
