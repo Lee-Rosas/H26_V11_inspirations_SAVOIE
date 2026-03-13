@@ -8,3 +8,6 @@
 ## Type d'exposition: Permanente intérieur
 ### Date de visite : 3 Mars 2026
 # Mawlukhotine
+![photo](media/vue_ensemble_installation.jpg)
+###### Cette photo à été prise par moi
+# Croquis de l'oeuvre
