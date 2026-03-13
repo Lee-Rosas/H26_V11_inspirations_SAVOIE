@@ -12,3 +12,5 @@
 ###### Cette photo à été prise par moi
 # Croquis de l'oeuvre
 ![photo](media/croquis_oeuvre.jpg)
+###### Cette photo à été faite par moi
+## La Firme: Le Musée McCord
