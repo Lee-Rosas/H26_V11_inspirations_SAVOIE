@@ -17,14 +17,16 @@
 ![photo](media/description_histoire_cartel.jpg)
 #### Contrairement à plusieurs expositions, cette exposition-ci n'avait pas de cartel précis, mais plutôt des descriptions, des affirmations et des questions qui nous font réfléchir plus profondément.
 ###### Cette photo à été prise par moi
-### Type d'installation: Contemplative ET Interactive
+## Type d'installation: Contemplative ET Interactive
 ![photo](media/exposition_sombre.jpg)
 ### Fonction du dispositif multimédia: Mise en contexte, Support pédagogique et Diffusion du patrimoine immatériel
-# Mise en espace
+## Mise en espace
 ### Croquis de l'oeuvre
 ![photo](media/croquis_oeuvre.jpg)
 #### Cette exposition avait 3 salles, mais je n’en ai dessiné qu’une, car l’exposition est trop grande.
 ###### Cette photo à été faite par moi
-### Composantes et techniques: Un combiné téléphonique
+## Composantes et techniques: Un combiné téléphonique
 ![photo](media/dispositif_oeuvre.jpg)
 ###### Cette photo à été prise par moi
+## Éléments nécessaires à la mise en exposition: Mur, projecteurs, banc
+![photo](media/entree_salle.jpg)
