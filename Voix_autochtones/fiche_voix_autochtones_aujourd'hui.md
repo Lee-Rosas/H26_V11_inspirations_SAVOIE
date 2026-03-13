@@ -23,3 +23,4 @@
 ###### Cette photo à été prise par moi
 ### Type d'installation: Contemplative ET Interactive
 ![photo](media/exposition_sombre.jpg)
+### Fonction du dispositif multimédia: Mise en contexte, Support pédagogique et Diffusion du patrimoine immatériel
