@@ -10,10 +10,6 @@
 # Mawlukhotine
 ![photo](media/vue_ensemble_installation.jpg)
 ###### Cette photo à été prise par moi
-# Croquis de l'oeuvre
-![photo](media/croquis_oeuvre.jpg)
-#### Cette exposition avait 3 salles, mais je n’en ai dessiné qu’une, car l’exposition est trop grande.
-###### Cette photo à été faite par moi
 ## La Firme: Le Musée McCord
 ###### L'exposition à été assuré et exposé par plusieurs personnes, mais à été réalisée par le Musée McCord.
 ### Cette oeuvre à été réalisée en septembre 2021
@@ -24,3 +20,8 @@
 ### Type d'installation: Contemplative ET Interactive
 ![photo](media/exposition_sombre.jpg)
 ### Fonction du dispositif multimédia: Mise en contexte, Support pédagogique et Diffusion du patrimoine immatériel
+# Mise en espace
+### Croquis de l'oeuvre
+![photo](media/croquis_oeuvre.jpg)
+#### Cette exposition avait 3 salles, mais je n’en ai dessiné qu’une, car l’exposition est trop grande.
+###### Cette photo à été faite par moi
