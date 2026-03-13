@@ -27,3 +27,4 @@
 ###### Cette photo à été faite par moi
 ### Composantes et techniques: Un combiné téléphonique
 ![photo](media/dispositif_oeuvre.jpg)
+###### Cette photo à été prise par moi
