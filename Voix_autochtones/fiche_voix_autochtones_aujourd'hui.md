@@ -35,4 +35,6 @@
 ![photo](media/entree_salle.jpg)
 > Mur, projecteurs, banc
 ###### Cette photo à été prise par moi
-####
+## Expérience vécue
+![photo](media/combine_telephonique.jpg)
+#### Tu dois prendre la combiné téléphonique et écouter dans celui-ci pour en savoir plus sur l’histoire des autochtones, on a aussi des petits écrans pour un support visuel. Il y a plusieurs paires de combinés téléphoniques pour laisser la chance à plusieurs personnes d’accéder aux informations.
