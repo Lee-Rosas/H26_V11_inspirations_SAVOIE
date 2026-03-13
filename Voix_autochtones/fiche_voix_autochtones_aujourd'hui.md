@@ -26,8 +26,10 @@
 ![photo](media/croquis_oeuvre.jpg)
 #### Cette exposition avait 3 salles, mais je n’en ai dessiné qu’une, car l’exposition est trop grande.
 ###### Cette photo à été faite par moi
-## Composantes et techniques: Un combiné téléphonique, plusieurs fichiers audiovisuelle et images fixes
+## Composantes et techniques
 ![photo](media/dispositif_oeuvre.jpg)
+> Un combiné téléphonique, plusieurs fichiers audiovisuelle et images fixes
 ###### Cette photo à été prise par moi
 ## Éléments nécessaires à la mise en exposition: Mur, projecteurs, banc
 ![photo](media/entree_salle.jpg)
+###### Cette photo à été prise par moi
