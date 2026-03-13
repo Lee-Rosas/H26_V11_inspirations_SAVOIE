@@ -22,3 +22,4 @@
 #### Contrairement à plusieurs expositions, cette exposition-ci n'avait pas de cartel précis, mais plutôt des descriptions, des affirmations et des questions qui nous font réfléchir plus profondément.
 ###### Cette photo à été prise par moi
 ### Type d'installation: Contemplative ET Interactive
+![photo](media/exposition_sombre.jpg)
