@@ -20,7 +20,8 @@
 ## Type d'installation: Contemplative ET Interactive
 ![photo](media/exposition_sombre.jpg)
 ###### Cette photo à été prise par ma mère
-### Fonction du dispositif multimédia: Mise en contexte, Support pédagogique et Diffusion du patrimoine immatériel
+### Fonction du dispositif multimédia 
+> Mise en contexte, Support pédagogique et Diffusion du patrimoine immatériel
 ## Mise en espace
 ### Croquis de l'oeuvre
 ![photo](media/croquis_oeuvre.jpg)
@@ -30,6 +31,8 @@
 ![photo](media/dispositif_oeuvre.jpg)
 > Un combiné téléphonique, plusieurs fichiers audiovisuelle et images fixes
 ###### Cette photo à été prise par moi
-## Éléments nécessaires à la mise en exposition: Mur, projecteurs, banc
+## Éléments nécessaires à la mise en exposition
 ![photo](media/entree_salle.jpg)
+> Mur, projecteurs, banc
 ###### Cette photo à été prise par moi
+####
