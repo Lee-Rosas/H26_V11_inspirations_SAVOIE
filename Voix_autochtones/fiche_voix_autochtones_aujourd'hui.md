@@ -10,8 +10,8 @@
 # Mawlukhotine
 ![photo](media/vue_ensemble_installation.jpg)
 ###### Cette photo à été prise par moi
-## La Firme: Le Musée McCord
-###### L'exposition à été assuré et exposé par plusieurs personnes, mais à été réalisée par le Musée McCord.
+## La Firme: Le Musée McCord, La Boîte Rouge VIF et BLVD-Rodeo FX
+###### L'exposition à été réalisée par le Musée McCord, puis assuré et exposé par plusieurs personnes.
 ### Cette oeuvre à été réalisée en septembre 2021
 ### Le dispositif multimédia diffuse plein de différentes informations sur l'histoire des autochtones par des téléphones. Ils expliquent comment ils ont dû survivre en nature, dans les pensionnats, comment ils ont repris en main leurs vies en société après des traumatismes et comment ils ont essayé garder leurs savoirs.
 ![photo](media/description_histoire_cartel.jpg)
@@ -19,13 +19,14 @@
 ###### Cette photo à été prise par moi
 ## Type d'installation: Contemplative ET Interactive
 ![photo](media/exposition_sombre.jpg)
+###### Cette photo à été prise par ma mère
 ### Fonction du dispositif multimédia: Mise en contexte, Support pédagogique et Diffusion du patrimoine immatériel
 ## Mise en espace
 ### Croquis de l'oeuvre
 ![photo](media/croquis_oeuvre.jpg)
 #### Cette exposition avait 3 salles, mais je n’en ai dessiné qu’une, car l’exposition est trop grande.
 ###### Cette photo à été faite par moi
-## Composantes et techniques: Un combiné téléphonique
+## Composantes et techniques: Un combiné téléphonique, plusieurs fichiers audiovisuelle et images fixes
 ![photo](media/dispositif_oeuvre.jpg)
 ###### Cette photo à été prise par moi
 ## Éléments nécessaires à la mise en exposition: Mur, projecteurs, banc
