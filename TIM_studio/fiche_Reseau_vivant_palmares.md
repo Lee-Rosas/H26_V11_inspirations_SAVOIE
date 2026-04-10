@@ -2,6 +2,7 @@
 ## Arbre en face
 ### Créateurs :
 #### Alexandre Gendron, Mikael Arseneau, Mathieu Willet, Matis Ghariani et Rafael Angon Dube
+### Installation en cours:
 ![photo](media/arbre_en_face.jpg)
 ### Schéma d'installation :
 # 2
