@@ -5,9 +5,9 @@
 ### Installation en cours:
 ![photo](media/arbre_en_face.jpg)
 ### Schéma d'installation :
-![photo](media/Scénarimage_arbre_en_face.webp)
+![photo](media/)
 > Source: https://mammouths.github.io/projet/#/
-> Fichier: Scénarimage_arbre_en_face.webp
+> Fichier: 
 # 2
 ## Symbiose
 ### Créateurs :
@@ -30,7 +30,7 @@
 ### Installation en cours:
 ![photo](media/ocean_rouge.jpg)
 ### Schéma d'installation :
-![photo](media/Scénarimage_ocean_rouge.png)
+![photo](media/)
 # 5
 ## Quand les yeux
 ### Créateurs :
@@ -38,4 +38,4 @@
 ### Installation en cours:
 ![photo](media/quand_les_yeux.jpg)
 ### Schéma d'installation :
-![photo](media/Scénarimage_quand_les_yeux.png)
+![photo](media/)
