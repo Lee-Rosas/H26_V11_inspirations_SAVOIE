@@ -16,6 +16,8 @@
 ![photo](media/symbiose.jpg)
 ### Schéma d'installation :
 ![photo](media/mise_en_espace_symbiose.webp)
+> Source: https://les-chimistes.github.io/symbiose/#/
+> Fichier: mise_en_espace_symbiose.webp
 # 3
 ## Mission
 ### Créateurs :
