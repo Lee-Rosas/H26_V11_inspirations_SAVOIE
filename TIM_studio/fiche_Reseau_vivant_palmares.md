@@ -27,6 +27,7 @@
 ### Installation en cours:
 ![photo](media/ocean_rouge.jpg)
 ### Schéma d'installation :
+![photo](media/Scénarimage_ocean_rouge.png)
 # 5
 ## Quand les yeux
 ### Créateurs :
