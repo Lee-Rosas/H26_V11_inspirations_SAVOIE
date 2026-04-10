@@ -6,6 +6,8 @@
 ![photo](media/arbre_en_face.jpg)
 ### Schéma d'installation :
 ![photo](media/Scénarimage_arbre_en_face.webp)
+> Source: https://mammouths.github.io/projet/#/
+> Fichier: Scénarimage_arbre_en_face.webp
 # 2
 ## Symbiose
 ### Créateurs :
