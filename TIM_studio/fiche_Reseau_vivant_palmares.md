@@ -35,4 +35,4 @@
 ### Installation en cours:
 ![photo](media/quand_les_yeux.jpg)
 ### Schéma d'installation :
-
+![photo](media/Scénarimage_quand_les_yeux.png)
