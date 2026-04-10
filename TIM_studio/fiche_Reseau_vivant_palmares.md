@@ -15,7 +15,7 @@
 ### Installation en cours:
 ![photo](media/symbiose.jpg)
 ### Schéma d'installation :
-
+![photo](media/Scénarimage_symbiose.webp)
 # 3
 ## Mission
 ### Créateurs :
