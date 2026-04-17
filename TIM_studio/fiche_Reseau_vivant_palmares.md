@@ -25,6 +25,7 @@
 ### Installation en cours:
 ![photo](media/mission.jpg)
 ### Schéma d'installation :
+![photo](media/mise_en_espace_mission.png)
 # 4
 ## Ocean Rouge
 ### Créateurs :
@@ -32,7 +33,7 @@
 ### Installation en cours:
 ![photo](media/ocean_rouge.jpg)
 ### Schéma d'installation :
-![photo](media/)
+![photo](media/mise_en_espace_ocean_rouge.png)
 # 5
 ## Quand les yeux
 ### Créateurs :
@@ -40,4 +41,4 @@
 ### Installation en cours:
 ![photo](media/quand_les_yeux.jpg)
 ### Schéma d'installation :
-![photo](media/)
+![photo](media/mise_en_espace_quand_les_yeux.jpeg)
