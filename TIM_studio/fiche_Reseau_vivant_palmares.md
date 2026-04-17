@@ -21,7 +21,7 @@
 > Source: https://les-chimistes.github.io/symbiose/#/
 > Fichier: mise_en_espace_symbiose.webp
 ### Ce que je ressens en expérimentant l’installation : 
-#### 
+#### Je trouve que l'installation est très interactive. Avant l'expérimentation, je voyais beaucoup de gens être extrêmement concentrés et être très silencieux avant qu'ils perdent. Les gens voulaient recommencer et essayer à nouveau. J'étais curieuse de savoir pourquoi les gens voulaient autant jouer à nouveau. Après l'avoir expérimentée, j'ai découvert qu'il y avait des temps records que l'on pouvait dépasser. Après avoir échoué à une minute et 22 secondes, j'ai voulu recommencer pour battre mon record précédent. Je trouve que l'installation travaille beaucoup le travail d'équipe, la patience et la persévérance. Puis, si on échoue, on peut toujours recommencer et faire mieux.
 # 3
 ## Mission
 ### Créateurs :
