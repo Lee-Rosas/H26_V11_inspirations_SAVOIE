@@ -26,6 +26,8 @@
 ![photo](media/mission.jpg)
 ### Schéma d'installation :
 ![photo](media/mise_en_espace_mission.png)
+> Source: https://o-i-g-n-o-n.github.io/Mission-decollage/#/
+> Fichier: mise_en_espace_mission.png
 # 4
 ## Ocean Rouge
 ### Créateurs :
@@ -34,6 +36,8 @@
 ![photo](media/ocean_rouge.jpg)
 ### Schéma d'installation :
 ![photo](media/mise_en_espace_ocean_rouge.png)
+> Source: https://deux-intelligence.github.io/deux-neurones/
+> Fichier: mise_en_espace_ocean_rouge.png
 # 5
 ## Quand les yeux
 ### Créateurs :
@@ -42,3 +46,5 @@
 ![photo](media/quand_les_yeux.jpg)
 ### Schéma d'installation :
 ![photo](media/mise_en_espace_quand_les_yeux.jpeg)
+> Source: [https://deux-intelligence.github.io/deux-neurones/](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
+> Fichier: mise_en_espace_quand_les_yeux.jpeg
