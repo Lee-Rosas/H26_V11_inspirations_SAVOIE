@@ -9,7 +9,7 @@
 > Source: https://mammouths.github.io/projet/#/
 > Fichier: mise_en_espace_arbre_en_face.jpg
 ### Ce que je ressens en expérimentant l’installation : 
-#### Je trouve le concept très amusant, c'est drôle et interactif ! Avant d'avoir essayé l'expérimentation, j'entendais plein de personnes rire et dire "WOAA" puis je me demandais qu'est-ce qui pouvait être aussi drôle. Après l'avoir essayé, j'ai compris pourquoi, l'installation est très drôle et pas sérieuse du tout, j'adore. Elle permet d'avoir de multiples rires et de s'amuser en voyant nos visages dans les fleurs. Je n'ai vu aucune personne ne pas sourire en voyant le concept. Si je pouvais décrire cette installation en un mot, ça serait : "WOAAH"
+#### Je trouve le concept très amusant, c'est drôle et interactif! Avant d'avoir essayé l'expérimentation, j'entendais plein de personnes rire et dire "WOAA" puis je me demandais qu'est-ce qui pouvait être aussi drôle. Après l'avoir essayé, j'ai compris pourquoi, l'installation est très drôle et pas sérieuse du tout, j'adore. Elle permet d'avoir de multiples rires et de s'amuser en voyant nos visages dans les fleurs. Je n'ai vu aucune personne ne pas sourire en voyant le concept. Si je pouvais décrire cette installation en un mot, ça serait : "WOAAH"
 # 2
 ## Symbiose
 ### Créateurs :
