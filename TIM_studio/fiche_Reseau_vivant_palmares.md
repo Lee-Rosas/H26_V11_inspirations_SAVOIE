@@ -5,9 +5,9 @@
 ### Installation en cours:
 ![photo](media/arbre_en_face.jpg)
 ### Schéma d'installation :
-![photo](media/)
+![photo](media/mise_en_espace_arbre_en_face.jpg)
 > Source: https://mammouths.github.io/projet/#/
-> Fichier: 
+> Fichier: mise_en_espace_arbre_en_face.jpg
 # 2
 ## Symbiose
 ### Créateurs :
