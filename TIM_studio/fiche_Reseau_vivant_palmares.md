@@ -33,7 +33,7 @@
 > Source: https://o-i-g-n-o-n.github.io/Mission-decollage/#/
 > Fichier: mise_en_espace_mission.png
 ### Ce que je ressens en expérimentant l’installation : 
-#### Je trouve que l'installation est un vrai *challenge*. Avant 
+#### Je trouve que l'installation est un vrai *challenge*. Au début, je voyais tout le monde se diriger vers cette installation, vu qu'elle était visiblement et physiquement faite pour les amateurs de jeux vidéo/simulateurs. Après l'avoir essayée pour la première fois, on a explosé.
 # 4
 ## Ocean Rouge
 ### Créateurs :
