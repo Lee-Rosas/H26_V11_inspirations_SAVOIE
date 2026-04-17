@@ -33,7 +33,7 @@
 > Source: https://o-i-g-n-o-n.github.io/Mission-decollage/#/
 > Fichier: mise_en_espace_mission.png
 ### Ce que je ressens en expérimentant l’installation : 
-#### 
+#### Je trouve que l'installation est un vrai *challenge*. Avant 
 # 4
 ## Ocean Rouge
 ### Créateurs :
