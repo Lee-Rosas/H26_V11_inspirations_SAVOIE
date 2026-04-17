@@ -20,6 +20,8 @@
 ![photo](media/mise_en_espace_symbiose.webp)
 > Source: https://les-chimistes.github.io/symbiose/#/
 > Fichier: mise_en_espace_symbiose.webp
+### Ce que je ressens en expérimentant l’installation : 
+#### 
 # 3
 ## Mission
 ### Créateurs :
@@ -30,6 +32,8 @@
 ![photo](media/mise_en_espace_mission.png)
 > Source: https://o-i-g-n-o-n.github.io/Mission-decollage/#/
 > Fichier: mise_en_espace_mission.png
+### Ce que je ressens en expérimentant l’installation : 
+#### 
 # 4
 ## Ocean Rouge
 ### Créateurs :
@@ -40,6 +44,8 @@
 ![photo](media/mise_en_espace_ocean_rouge.png)
 > Source: https://deux-intelligence.github.io/deux-neurones/
 > Fichier: mise_en_espace_ocean_rouge.png
+### Ce que je ressens en expérimentant l’installation : 
+#### 
 # 5
 ## Quand les yeux
 ### Créateurs :
@@ -50,3 +56,5 @@
 ![photo](media/mise_en_espace_quand_les_yeux.jpeg)
 > Source: [https://deux-intelligence.github.io/deux-neurones/](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
 > Fichier: mise_en_espace_quand_les_yeux.jpeg
+### Ce que je ressens en expérimentant l’installation : 
+#### 
