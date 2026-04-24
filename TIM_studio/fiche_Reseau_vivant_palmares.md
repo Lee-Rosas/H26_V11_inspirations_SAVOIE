@@ -33,7 +33,7 @@
 > Source: https://o-i-g-n-o-n.github.io/Mission-decollage/#/
 > Fichier: mise_en_espace_mission.png
 ### Ce que je ressens en expérimentant l’installation : 
-#### Je trouve que l'installation est un vrai *challenge*. Au début, je voyais tout le monde se diriger vers cette installation, vu qu'elle était visiblement et physiquement faite pour les amateurs de jeux vidéo/simulateurs. Après l'avoir essayée pour la première fois, on a explosé.
+#### Je trouve que l'installation est un vrai *challenge*. Au début, je voyais tout le monde se diriger vers cette installation, vu qu'elle était visiblement et physiquement faite pour les amateurs de jeux vidéo/simulateurs. Après l'avoir essayée pour la première fois, on a explosé. Et puis à plusieurs reprises, mais après plusieurs essais on a enfin réussi, un énorme moment de plaisir. Cette installation est très stimulante, mais très difficile au début.
 # 4
 ## Ocean Rouge
 ### Créateurs :
@@ -45,7 +45,7 @@
 > Source: https://deux-intelligence.github.io/deux-neurones/
 > Fichier: mise_en_espace_ocean_rouge.png
 ### Ce que je ressens en expérimentant l’installation : 
-#### 
+#### Je trouve le jeu bien *cosy* et calme ! Le principe est vaguement simple à comprendre et n'est pas très difficile à jouer ! Au début j'ai directement compris comment on joue au premier essai. Après plusieurs minutes tu comprends toute l'installation. Seule remarque, c'est que c'est trop facile : au bout de 10 min on sait comment ça marche, il faudrait plus d'action, mais très belle installation.
 # 5
 ## Quand les yeux
 ### Créateurs :
