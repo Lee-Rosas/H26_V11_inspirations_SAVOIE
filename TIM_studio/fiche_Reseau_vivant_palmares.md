@@ -57,4 +57,4 @@
 > Source: [https://deux-intelligence.github.io/deux-neurones/](https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/)
 > Fichier: mise_en_espace_quand_les_yeux.jpeg
 ### Ce que je ressens en expérimentant l’installation : 
-#### 
+#### Au début je n'ai vraiment pas compris le principe de l'installation. Après la deuxième visite j'ai compris, c'est drôle de voir nos yeux en gros plan mais après 5 min ça devient long. Il faudrait un peu plus d'action pour que ça soit plus interactif, mais globalement j'adore l'apparence physique et tout le thème nature!
