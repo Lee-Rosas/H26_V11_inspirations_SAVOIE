@@ -34,4 +34,4 @@ L’objectif est de trouver un chemin sécuritaire pour éviter que le véhicule
 #### Appréciation: L’exposition est très immersive et permet de mieux comprendre la culture inuite et les réalités du Nord. Les effets visuels et sonores rendent l’expérience engageante et amusante!  
 #### Critique: Certains dispositifs pourraient être plus interactifs ou donner plus de liberté.  
 ### Références:  
-Photos prise par Rosa-Lee Savoie
+#### Photos prise par Rosa-Lee Savoie
