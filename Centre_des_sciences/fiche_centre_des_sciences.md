@@ -1,6 +1,6 @@
 # Nanualuk – Expédition Nordique  
 ## Centre des sciences  
-![photo](media/nom_exposition.jpg)
+![photo](media/titre.jpg)
 ## Type d’exposition :  intérieur permanente  
 ### Date de visite :  1 avril 2026
 # Une Glace Fragile 
