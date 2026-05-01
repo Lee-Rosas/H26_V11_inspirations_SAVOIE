@@ -22,12 +22,13 @@ Les niveaux deviennent de plus en plus complexes avec des boutons, passages et o
 ## Fonction du dispositif: 
 >Scénographie  
 ## Mise en espace  
-
- 
-
+![photo](media/croquis.png)
 ## Composantes et techniques
->Téléphones cellulaires (manettes), projection  
-> Mur, projecteur, pouf 
+![photo](media/jeu_coter.jpg)
+>Téléphones cellulaires (manettes)
+## Éléments nécessaires
+![photo](media/projecteurs.jpg)
+> Mur, projecteur, poufs 
 ## Expérience vécue  
  
 
