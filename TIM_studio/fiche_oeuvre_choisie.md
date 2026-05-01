@@ -1,35 +1,33 @@
 # Exposition des finissants  
 ## Grand studio  
-![photo](media/
+![photo](media/entree.jpg)
 ## Type d’exposition :  intérieur temporaire  
 ### Date de visite :  24 février et 17 mars  
 # TERMINAL  
-
+![photo](media/terminal_titre.jpg)
 ## Artistes  
 - Émeryk Bélise  
 - Elie Daher  
 - Ting Yung Lu  
 - Terry Dana Saavedra-Torrano  
 - Mégane Ranger  
-
 ## Année : 2026  
-
----
-
 ## Description  
 TERMINAL est un jeu collaboratif à 6 joueurs ou moins. Chaque joueur contrôle un opérateur grâce à son téléphone cellulaire. Le but est de restaurer des données corrompues dans un ancien réseau internet après une cyberattaque.  
 Les déplacements des joueurs créent des lignes qui deviennent des obstacles pour les autres comme *Slither.io*. Tout le monde doit atteindre la fin sans être éliminés. En cas d’échec, le niveau recommence au complet.  
 Les niveaux deviennent de plus en plus complexes avec des boutons, passages et obstacles mobiles.  
-## Type d’installation: Interactive   
-## Fonction: Scénographie 
- 
-
+![photo](media/cartel_terminal.jpg)
+## Type d’installation: Interactive 
+![photo](media/gros_plan.jpg)
+## Fonction du dispositif: 
+>Scénographie  
 ## Mise en espace  
-> Mur, projecteur, pouf  
+
+ 
 
 ## Composantes et techniques
 >Téléphones cellulaires (manettes), projection  
-
+> Mur, projecteur, pouf 
 ## Expérience vécue  
  
 
