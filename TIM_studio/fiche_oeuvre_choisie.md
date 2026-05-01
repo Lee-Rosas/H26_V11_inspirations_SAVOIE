@@ -1,6 +1,6 @@
-# Exposition des finissants  
+# Réseau Vivant 
 ## Grand studio  
-![photo](media/entree.jpg)
+![photo](media/nom_exposition.jpg)
 ## Type d’exposition :  intérieur temporaire  
 ### Date de visite :  24 février et 17 mars  
 # TERMINAL  
@@ -30,11 +30,9 @@ Les niveaux deviennent de plus en plus complexes avec des boutons, passages et o
 ![photo](media/projecteurs.jpg)
 > Mur, projecteur, poufs 
 ## Expérience vécue  
- 
-
-
-
+![photo](media/autre_plan.jpg)
 #### Appréciation: Le concept est original et j'aime le fait que cela est basé sur la coopération et les obstacles créés par les joueurs.  
 #### Critique: Parfois les niveaux sont trop dure!
-### Références  
-Photos prises sur place
+### Références: 
+#### Photos prise par Rosa-Lee Savoie
+#### https://pythons-5.github.io/Terminal/#/
