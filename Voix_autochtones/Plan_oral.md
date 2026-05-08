@@ -8,11 +8,11 @@
 
 ### Le Musée McCord Stewart est un musée qui présente l’histoire sociale, culturelle et artistique du Québec et du Canada. L’exposition Voix autochtones d’aujourd’hui : savoir, trauma, résilience cherche à donner la parole aux peuples autochtones à travers des témoignages, des objets culturels et des vidéos immersives. Cette oeuvre à été réalisée en septembre 2021.Type d'installation: Contemplative et Interactive 
 
-### L’exposition met en valeur les savoirs autochtones, les conséquences du colonialisme et la résilience des communautés. On y retrouve plus de 80 témoignages vidéo et textuels provenant des  nations autochtones du Québec.  
+### L’exposition met en valeur les savoirs autochtones, les conséquences du colonialisme et la résilience des communautés. On y retrouve plus de 80 témoignages vidéo et textuels provenant des  nations autochtones du Québec. 
 
 ## Présentation détaillée du dispositif multimédia
 
-### Le dispositif que j’ai analysé est composé d’une structure métallique qui soutient 14 petits écrans diffusant chacun une vidéo différente. Les écrans sont regroupés pour créer une installation immersive où plusieurs témoignages peuvent être entendus et observés en même temps.
+### Le dispositif que j’ai analysé est composé d’une structure métallique qui soutient 14 petits écrans diffusant chacun une vidéo différente. Les écrans sont regroupés pour créer une installation immersive où plusieurs témoignages peuvent être entendus et observés en même temps. Le dispositif multimédia diffuse plein de différentes informations sur l'histoire des autochtones par des téléphones. Ils expliquent comment ils ont dû survivre en nature, dans les pensionnats, comment ils ont repris en main leurs vies en société après des traumatismes et comment ils ont essayé garder leurs savoirs.
 
 ### Il y a aussi un code QR présent sur le texte de présentation qui permet aussi d’accéder au contenu sur un cellulaire. Cela prolonge l’expérience et rend le contenu plus accessible.
 
